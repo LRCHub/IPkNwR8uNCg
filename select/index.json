@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "…だけどベイビー！！",
+  "base_artist": "チエ・カジウラ",
+  "createdAt": "2025-12-01T19:12:31.236454Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "…だけど ベイビー!!",
+      "artist": "FIRE BOMBER",
+      "has_synced": false,
+      "path": "select/pl_01_...だけど_ベイビー!!_FIRE_BOMBER.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "…だけど ベイビー!! (album version)",
+      "artist": "FIRE BOMBER",
+      "has_synced": false,
+      "path": "select/pl_02_...だけど_ベイビー!!_(album_version)_FIRE_BOMBER.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "…だけど ベイビー!!",
+      "artist": "FIRE BOMBER",
+      "has_synced": false,
+      "path": "select/pl_03_...だけど_ベイビー!!_FIRE_BOMBER.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "…だけどベイビー!!",
+      "artist": "FIRE BOMBER",
+      "has_synced": false,
+      "path": "select/pl_04_...だけどベイビー!!_FIRE_BOMBER.txt"
+    }
+  ]
+}
